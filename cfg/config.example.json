@@ -1,0 +1,6 @@
+{
+    "server": "ldap:\/\/localhost:389",
+    "adminDN": "cn=manager,dc=example,dc=org",
+    "adminPwd": "secret",
+    "base": "ou=foobar,dc=example,dc=org"
+}
