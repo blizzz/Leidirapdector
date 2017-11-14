@@ -62,5 +62,7 @@ $app = new Application();
 
 $app->add(new Leidirapdector\Commands\UserCreate());
 
+$app->add(new Leidirapdector\Commands\Delete());
+
 $app->run();
 
